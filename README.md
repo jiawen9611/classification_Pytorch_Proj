@@ -1,5 +1,5 @@
 # Classification Project based on Pytorch
-这是一份基于Pytorch的分类代码，用于deep-learning、Tensorflow的学习。
+这是一份基于Pytorch的分类代码，用于deep-learning、Pytorch的学习。
 #### 相关信息
     开始日期：2019.6.9
 #### 环境要求
@@ -25,3 +25,4 @@
     模型输出在exp_output，在classification_Tensorflow_Proj路径下新建一个exp_output，
     内新建对应的实验名文件夹;
     运行方法是先在exp_configs里做好实验配置，再运行指定好的train.py文件。
+    
